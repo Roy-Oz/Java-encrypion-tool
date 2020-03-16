@@ -1,0 +1,2 @@
+encrypt plaintext.txt encrypted.txt side1.keystore side1password side2cer config.properties side1 side1password
+decrypt encrypted.txt plaintext2.txt side2.keystore side2password side1cer config.properties side2 side2password
